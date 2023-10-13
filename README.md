@@ -5,6 +5,8 @@ Este es mi primer repositorio en github
 
 > Lo aprendo porque me interesa y porque me dedico a construir compañias  de tecnologia 
 
+> Haciendo un par de pruebas lol
+
 Un saludo al que lea esto 
 
 **Carlos A **
