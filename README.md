@@ -7,6 +7,8 @@ Este es mi primer repositorio en github
 
 > Haciendo un par de pruebas lol
 
+> Incluye ejemplos 
+
 Un saludo al que lea esto 
 
 **Carlos A **
